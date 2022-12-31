@@ -1,2 +1,2 @@
-# CciniSix.github.io
+# https://9420.ga/
 总有刁民想要害朕
