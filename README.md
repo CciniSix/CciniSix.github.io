@@ -1,9 +1,13 @@
 总有刁民想要害朕
 
-聚合影视: https://9420.ga/
-
+<br>
+影视: https://9420.ga/
+</br>
 图床: https://tc.9420.ga/
-
-节点:https://9420.ga/v/t.txt  https://9420.ga/v/y.txt
-
-tgapi: https://tg.9420.ga/
+<br>
+节点1:https://9420.ga/v/t.txt
+</br>
+节点2https://9420.ga/v/y.txt
+<br>
+tg_api: https://tg.9420.ga/
+</br>
