@@ -4,6 +4,6 @@
 
 图床: https://tc.9420.ga/
 
-AD规则:https://9420.ga/ad/ad.txt
+节点:https://9420.ga/v/t.txt  https://9420.ga/v/y.txt
 
 tgapi: https://tg.9420.ga/
