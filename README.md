@@ -8,6 +8,3 @@
 节点1:https://9420.ga/v/t.txt
 </br>
 节点2https://9420.ga/v/y.txt
-<br>
-tg_api: https://tg.9420.ga/
-</br>
