@@ -1,3 +1,0 @@
-proxies:
-  - {"name":"🇺🇸_US_美国","type":"vmess","server":"45.12.144.79","port":47127,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
-  - {"name":"🇺🇸_US_美国","type":"vmess","server":"45.12.144.79","port":47127,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"network":"tcp"}
