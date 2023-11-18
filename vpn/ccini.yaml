@@ -166,10 +166,10 @@ proxies:
     sni: www.bing.com
     skip-cert-verify: true
     fast-open: true
-  - name: Hy2-19244
+  - name: Hy2-20231
     type: hysteria2 
     server: www.dtku48.xyz
-    port: 19244
+    port: 20231
     password: dongtaiwang.com
     alpn:
       - h3
