@@ -237,7 +237,7 @@ proxy-groups:
   interval: 300
   tolerance: 50
   proxies:
-    - Hy1
+    - ip
 #自定义添加协议的name字段
     
 - name: 🌍选择代理节点
@@ -246,7 +246,7 @@ proxy-groups:
     - 负载均衡                                            #自定义添加协议的name字段
     - 自动选择
     - DIRECT
-    - Hy1
+    - ip
 
 
 #（四区）==============================（代理规则）
