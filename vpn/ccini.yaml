@@ -227,9 +227,7 @@ proxy-groups:
   interval: 300
   strategy: round-robin
   proxies:
-    - warp-wireguard节点                                  #自定义添加协议的name字段
-    - vless-ws-tls节点
-    - vless-ws节点
+    - ip
 
 - name: 自动选择
   type: url-test
