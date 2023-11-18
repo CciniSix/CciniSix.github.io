@@ -228,6 +228,7 @@ proxy-groups:
   strategy: round-robin
   proxies:
     - ip
+    - ip1
 
 - name: 自动选择
   type: url-test
@@ -236,7 +237,7 @@ proxy-groups:
   tolerance: 50
   proxies:
     - ip
-#自定义添加协议的name字段
+    - ip1
     
 - name: 🌍选择代理节点
   type: select
