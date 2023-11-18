@@ -1,3 +1,34 @@
+#（一区）=============================（clash配置）
+#dns可自行修改
+port: 7890
+allow-lan: true
+mode: rule
+log-level: info
+unified-delay: true
+global-client-fingerprint: chrome
+dns:
+  enable: true
+  listen: :53
+  ipv6: true
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  default-nameserver: 
+    - 223.5.5.5
+    - 8.8.8.8
+  nameserver:
+    - https://dns.alidns.com/dns-query
+    - https://doh.pub/dns-query
+  fallback:
+    - https://1.0.0.1/dns-query
+    - tls://dns.google
+  fallback-filter:
+    geoip: true
+    geoip-code: CN
+    ipcidr:
+      - 240.0.0.0/4
+
+
+#（二区）==============================（代理协议）
 proxies:
   - name: ip 
     server: tuic1.freeh1.xyz
@@ -186,3 +217,41 @@ proxies:
     sni: www.bing.com
     skip-cert-verify: true
     fast-open: true
+
+#（三区）==============================（代理分流）
+#分流组可自行创建添加，proxies参数下的name节点名称，按需求自行增减，确保出现的name节点名称在二区代理协议中可查找
+proxy-groups:
+- name: 负载均衡
+  type: load-balance
+  url: https://cp.cloudflare.com/generate_204
+  interval: 300
+  strategy: round-robin
+  proxies:
+    - warp-wireguard节点                                  #自定义添加协议的name字段
+    - vless-ws-tls节点
+    - vless-ws节点
+
+- name: 自动选择
+  type: url-test
+  url: https://cp.cloudflare.com/generate_204
+  interval: 300
+  tolerance: 50
+  proxies:
+    - Hy1
+#自定义添加协议的name字段
+    
+- name: 🌍选择代理节点
+  type: select
+  proxies:
+    - 负载均衡                                            #自定义添加协议的name字段
+    - 自动选择
+    - DIRECT
+    - Hy1
+
+
+#（四区）==============================（代理规则）
+#代理规则可自行添加 
+rules:
+  - GEOIP,LAN,DIRECT
+  - GEOIP,CN,DIRECT
+  - MATCH,🌍选择代理节点
