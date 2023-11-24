@@ -12,17 +12,6 @@ proxies:
     skip-cert-verify: false
     congestion-controller: bbr
   - name: ip1 
-    type: hysteria2
-    server: 109.104.152.219
-    port: 22998
-    password: dongtaiwang.com
-    alpn:
-      - h3
-    sni: bing.com
-    skip-cert-verify: true
-    up: "100 Mbps"
-    down: "100 Mbps"
-  - name: ip2 
     type: hysteria
     server: 167.160.90.251
     port: 48089
@@ -33,6 +22,17 @@ proxies:
     up: "11 Mbps"
     down: "55 Mbps"
     skip-cert-verify: true 
+  - name: ip2 
+    type: hysteria2
+    server: 109.104.152.219
+    port: 22998
+    password: dongtaiwang.com
+    alpn:
+      - h3
+    sni: bing.com
+    skip-cert-verify: true
+    up: "100 Mbps"
+    down: "100 Mbps"
   - name: ip 
     type: hysteria
     server: www.dtku46.xyz
@@ -166,10 +166,10 @@ proxies:
     sni: www.bing.com
     skip-cert-verify: true
     fast-open: true
-  - name: Hy2-49694
+  - name: Hy2-12398
     type: hysteria2 
     server: www.dtku48.xyz
-    port: 49694
+    port: 12398
     password: dongtaiwang.com
     alpn:
       - h3
