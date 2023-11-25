@@ -146,10 +146,10 @@ proxies:
     sni: www.microsoft.com
     skip-cert-verify: true
     fast-open: true
-  - name: Hy2-49730
+  - name: Hy2-33330
     type: hysteria2 
     server: www.dtku46.xyz
-    port: 49730
+    port: 33330
     password: dongtaiwang.com
     alpn:
       - h3
@@ -166,10 +166,10 @@ proxies:
     sni: www.bing.com
     skip-cert-verify: true
     fast-open: true
-  - name: Hy2-12398
+  - name: Hy2-6829
     type: hysteria2 
     server: www.dtku48.xyz
-    port: 12398
+    port: 6829
     password: dongtaiwang.com
     alpn:
       - h3
