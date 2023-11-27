@@ -78,7 +78,18 @@ proxies:
     udp-relay-mode: native
     skip-cert-verify: true
     congestion-controller: bbr
-  - {"name":"quick_ip","type":"hysteria","server":"www3.dtku49.xyz","port":58693,"sni":"bing.com","skip-cert-verify":true,"alpn":["h3"],"protocol":"udp","auth_str":"nbdyVMqucpFMmyRiwcRQFI7EeKzJWjPYuks3ZzEhCv6HjeZvbh","up":11,"down":55}
+  - name: quick_ip4
+    server: 108.181.22.239
+    port: 19988
+    type: tuic
+    uuid: 485ce799-da5f-46e8-a82b-8ef322d8602f
+    password: dongtaiwang.com
+    sni: bing.com
+    alpn: [h3]
+    request-timeout: 8000
+    udp-relay-mode: native
+    skip-cert-verify: true
+    congestion-controller: bbr
   - {"name":"quick_ip1","type":"hysteria","server":"62.204.54.81","port":37899,"sni":"www.microsoft.com","skip-cert-verify":true,"alpn":["h3"],"protocol":"udp","auth_str":"OdHFS3zC3HlSYJmc0GLQNKLAlwDbJqEmonVBXmI07T0Ojb1bQB","up":5,"down":10}
   - {"name":"quick_ip3","type":"hysteria","server":"www.dtku50.xyz","port":14751,"sni":"www.microsoft.com","skip-cert-verify":true,"alpn":["h3"],"protocol":"udp","auth_str":"6qSZyyl4eTT8hqPMQxdhIgpxQfTyW1Oq6GBwQVhA2vBOw7QIGY","up":2,"down":10}
   - name: quick_ip4
@@ -166,10 +177,10 @@ proxies:
     sni: www.bing.com
     skip-cert-verify: true
     fast-open: true
-  - name: Hy2-37151
+  - name: Hy2-63246
     type: hysteria2 
-    server: www.dtku48.xyz
-    port: 37151
+    server: 108.181.22.213
+    port: 63246
     password: dongtaiwang.com
     alpn:
       - h3
