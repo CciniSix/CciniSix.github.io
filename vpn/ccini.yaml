@@ -177,10 +177,10 @@ proxies:
     sni: www.bing.com
     skip-cert-verify: true
     fast-open: true
-  - name: Hy2-63246
+  - name: Hy2-8567
     type: hysteria2 
-    server: 108.181.22.213
-    port: 63246
+    server: 167.160.90.252
+    port: 8567
     password: dongtaiwang.com
     alpn:
       - h3
