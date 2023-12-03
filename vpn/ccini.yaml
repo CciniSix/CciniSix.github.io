@@ -168,10 +168,10 @@ proxies:
     sni: www.bing.com
     skip-cert-verify: true
     fast-open: true
-  - name: Hy2-22601
+  - name: Hy2-22086
     type: hysteria2 
     server: 108.181.22.155
-    port: 22601
+    port: 22086
     password: dongtaiwang.com
     alpn:
       - h3
@@ -188,10 +188,10 @@ proxies:
     sni: www.bing.com
     skip-cert-verify: true
     fast-open: true
-  - name: Hy2-22601
+  - name: Hy2-22086
     type: hysteria2 
     server: 108.181.22.155
-    port: 22601
+    port: 22086
     password: dongtaiwang.com
     alpn:
       - h3
