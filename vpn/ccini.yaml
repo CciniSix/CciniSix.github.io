@@ -119,11 +119,11 @@ proxies:
     sni: youku.com
     skip-cert-verify: true
     fast-open: true
-  - name: Hy1-64502
+  - name: Hy1-59759
     type: hysteria
     server: 109.104.152.180
-    port: 64502
-    auth-str: kxeFKpB8fhGjP7cO7NNgXYr19ZsqKQMco612ZCfXiaJrojw571
+    port: 59759
+    auth-str: dongtaiwang.com
     alpn:
       - h3
     protocol: udp
