@@ -158,10 +158,10 @@ proxies:
     sni: www.microsoft.com
     skip-cert-verify: true
     fast-open: true
-  - name: Hy2-53850
+  - name: Hy2-62580
     type: hysteria2 
     server: www.dtku46.xyz
-    port: 53850
+    port: 62580
     password: dongtaiwang.com
     alpn:
       - h3
