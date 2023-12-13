@@ -80,18 +80,18 @@ proxies:
     skip-cert-verify: true
     congestion-controller: bbr
   - {"name":"quick_ip1","type":"hysteria","server":"62.204.54.81","port":42691,"sni":"bing.com","skip-cert-verify":true,"alpn":["h3"],"protocol":"udp","auth_str":"dongtaiwang.com","up":5,"down":10}
-  - name: quick_ip1
-    server: 109.104.152.180
-    port: 22335
+  - name: ip 
+    server: 108.181.22.239
+    port: 45600
     type: tuic
-    uuid: e78e1e93-a648-4974-b544-68f8b9fa0b81
+    uuid: 4576f920-975b-4ab4-b53a-bdcfa623124d
     password: dongtaiwang.com
     sni: bing.com
     alpn: [h3]
     request-timeout: 8000
     udp-relay-mode: native
     skip-cert-verify: true
-    congestion-controller: bb
+    congestion-controller: bbr
   - {"name":"quick_ip3","type":"hysteria","server":"www.dtku50.xyz","port":23577,"sni":"www.amazon.cn","skip-cert-verify":true,"alpn":["h3"],"protocol":"udp","auth_str":"dongtaiwang.com","up":2,"down":10}
   - name: ip 
     type: hysteria
@@ -118,6 +118,19 @@ proxies:
     sni: youku.com
     skip-cert-verify: true
     fast-open: true
+  - name: Hy1-41189
+    type: hysteria
+    server: 167.160.91.115
+    port: 41189
+    auth-str: bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF
+    alpn:
+      - h3
+    protocol: udp
+    up: 11
+    down: 55
+    sni: www.amazon.cn
+    skip-cert-verify: true
+    fast-open: true
   - name: Hy1-41146
     type: hysteria
     server: 108.181.22.239
@@ -129,19 +142,6 @@ proxies:
     up: 11
     down: 55
     sni: bing.com
-    skip-cert-verify: true
-    fast-open: true
-  - name: Hy1-48406
-    type: hysteria
-    server: 109.104.152.149
-    port: 48406
-    auth-str: xfNhrunYJ9GvDXCTktY2bIwhc1EyeyyAbiUMx1UtBOWgI4cMVB
-    alpn:
-      - h3
-    protocol: udp
-    up: 11
-    down: 55
-    sni: www.amazon.cn
     skip-cert-verify: true
     fast-open: true
   - name: Hy1-20164
