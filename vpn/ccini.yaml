@@ -129,10 +129,10 @@ proxies:
     sni: www.amazon.cn
     skip-cert-verify: true
     fast-open: true
-  - name: Hy1-41146
+  - name: Hy1-39967
     type: hysteria
     server: 108.181.22.239
-    port: 41146
+    port: 39967
     auth-str: dongtaiwang.com
     alpn:
       - h3
