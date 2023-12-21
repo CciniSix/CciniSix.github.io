@@ -175,10 +175,10 @@ proxies:
     sni: www.bing.com
     skip-cert-verify: true
     fast-open: true
-  - name: Hy2-48558
+  - name: Hy2-40246
     type: hysteria2 
     server: 108.181.22.155
-    port: 48558
+    port: 40246
     password: dongtaiwang.com
     alpn:
       - h3
@@ -195,10 +195,10 @@ proxies:
     sni: www.bing.com
     skip-cert-verify: true
     fast-open: true
-  - name: Hy2-48558
+  - name: Hy2-40246
     type: hysteria2 
     server: 108.181.22.155
-    port: 48558
+    port: 40246
     password: dongtaiwang.com
     alpn:
       - h3
