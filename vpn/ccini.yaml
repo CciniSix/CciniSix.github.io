@@ -89,17 +89,6 @@ proxies:
     udp-relay-mode: native
     skip-cert-verify: true
     congestion-controller: bbr
-  - name: ip2
-    type: hysteria2
-    server: 45.145.72.212
-    port: 23520
-    password: dongtaiwang.com
-    alpn:
-      - h3
-    sni: bing.com
-    up: "1 Mbps"
-    down: "5 Mbps"
-    skip-cert-verify: true
   - {"name":"quick_ip3","type":"hysteria","server":"www.dtku50.xyz","port":23577,"sni":"www.amazon.cn","skip-cert-verify":true,"alpn":["h3"],"protocol":"udp","auth_str":"dongtaiwang.com","up":2,"down":10}
   - name: ip 
     type: hysteria
