@@ -154,10 +154,10 @@ proxies:
     sni: www.microsoft.com
     skip-cert-verify: true
     fast-open: true
-  - name: Hy2-18417
+  - name: Hy2-55307
     type: hysteria2 
     server: www.dtku46.xyz
-    port: 18417
+    port: 55307
     password: dongtaiwang.com
     alpn:
       - h3
