@@ -1,196 +1,27 @@
-proxies:
-  - name: ip 
-    type: hysteria
-    server: 108.181.22.213
-    port: 52284
-    auth-str: dongtaiwang.com
-    alpn:
-      - h3
-    protocol: udp
-    up: "11 Mbps"
-    down: "55 Mbps"
-    skip-cert-verify: true 
-  - name: ip1 
-    type: hysteria
-    server: 167.160.90.251
-    port: 48089
-    auth-str: dongtaiwang.com
-    alpn:
-      - h3
-    protocol: udp
-    up: "11 Mbps"
-    down: "55 Mbps"
-    skip-cert-verify: true 
-  - name: ip2 
-    type: hysteria
-    server: 108.181.22.239
-    port: 41146
-    auth-str: dongtaiwang.com
-    alpn:
-      - h3
-    protocol: udp
-    up: "11 Mbps"
-    down: "55 Mbps"
-    skip-cert-verify: true 
-  - name: ip 
-    type: hysteria
-    server: www.dtku46.xyz
-    port: 11223
-    auth-str: mqoE9qSoyMFa
-    alpn:
-      - h3
-    protocol: udp
-    up: "11 Mbps"
-    down: "55 Mbps"
-    skip-cert-verify: true 
-  - name: ip 
-    server: 104.234.70.6
-    type: hysteria
-    port: 16117
-    auth-str: dongtaiwang.com
-    alpn:
-      - h3
-    protocol: udp
-    up: "11 Mbps"
-    down: "55 Mbps"
-    skip-cert-verify: true 
-  - name: ip 
-    type: hysteria
-    server: 108.181.22.155
-    port: 19721
-    auth-str: dongtaiwang.com
-    alpn:
-      - h3
-    protocol: udp
-    up: "11 Mbps"
-    down: "55 Mbps"
-    skip-cert-verify: true 
-  - name: ip 
-    server: 104.234.70.41
-    type: hysteria
-    port: 57153
-    auth-str: dongtaiwang.com
-    alpn:
-      - h3
-    protocol: udp
-    up: "11 Mbps"
-    down: "55 Mbps"
-    skip-cert-verify: true 
-  - {"name":"quick_ip1","type":"hysteria","server":"62.204.54.81","port":46333,"sni":"bing.com","skip-cert-verify":true,"alpn":["h3"],"protocol":"udp","auth_str":"dongtaiwang.com","up":5,"down":10}
-  - name: ip1
-    server: 64.110.25.10
-    port: 11227
-    type: tuic
-    uuid: 764b539f-2d3c-4772-9731-5ebf6984af98
-    password: dongtaiwang.com
-    sni: bing.com
-    alpn: [h3]
-    request-timeout: 8000
-    udp-relay-mode: native
-    skip-cert-verify: true
-    congestion-controller: bbr
-  - {"name":"quick_ip3","type":"hysteria","server":"www.dtku50.xyz","port":23577,"sni":"www.amazon.cn","skip-cert-verify":true,"alpn":["h3"],"protocol":"udp","auth_str":"dongtaiwang.com","up":2,"down":10}
-  - name: ip 
-    type: hysteria
-    server: www.dtku46.xyz
-    port: 11223
-    auth-str: mqoE9qSoyMFa
-    alpn:
-      - h3
-    protocol: udp
-    up: "11 Mbps"
-    down: "55 Mbps"
-    skip-cert-verify: true 
-
-  - name: Hy1-11926
-    type: hysteria
-    server: 51.158.54.46
-    port: 11926
-    auth-str: Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs
-    alpn:
-      - h3
-    protocol: udp
-    up: 11
-    down: 55
-    sni: youku.com
-    skip-cert-verify: true
-    fast-open: true
-  - name: Hy1-41189
-    type: hysteria
-    server: 167.160.91.115
-    port: 41189
-    auth-str: bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF
-    alpn:
-      - h3
-    protocol: udp
-    up: 11
-    down: 55
-    sni: www.amazon.cn
-    skip-cert-verify: true
-    fast-open: true
-  - name: Hy1-39967
-    type: hysteria
-    server: 108.181.22.239
-    port: 39967
-    auth-str: dongtaiwang.com
-    alpn:
-      - h3
-    protocol: udp
-    up: 11
-    down: 55
-    sni: bing.com
-    skip-cert-verify: true
-    fast-open: true
-  - name: Hy1-20164
-    type: hysteria
-    server: 173.234.25.52
-    port: 20164
-    auth-str: Ljg6NNEATDqP97hdAdHe1lJv7ggtKc0h7zmCCZKCX3qY0LR64F
-    alpn:
-      - h3
-    protocol: udp
-    up: 11
-    down: 55
-    sni: www.microsoft.com
-    skip-cert-verify: true
-    fast-open: true
-  - name: Hy2-55307
-    type: hysteria2 
-    server: www.dtku46.xyz
-    port: 55307
-    password: dongtaiwang.com
-    alpn:
-      - h3
-    sni: www.bing.com
-    skip-cert-verify: true
-    fast-open: true
-  - name: Hy2-27710
-    type: hysteria2 
-    server: 108.181.22.155
-    port: 27710
-    password: dongtaiwang.com
-    alpn:
-      - h3
-    sni: www.bing.com
-    skip-cert-verify: true
-    fast-open: true
-  - name: Hy2-63530
-    type: hysteria2 
-    server: 167.160.90.252
-    port: 63530
-    password: dongtaiwang.com
-    alpn:
-      - h3
-    sni: www.bing.com
-    skip-cert-verify: true
-    fast-open: true
-  - name: Hy2-27710
-    type: hysteria2 
-    server: 108.181.22.155
-    port: 27710
-    password: dongtaiwang.com
-    alpn:
-      - h3
-    sni: www.bing.com
-    skip-cert-verify: true
-    fast-open: true
+hysteria://108.181.22.213:52284?upmbps=11 Mbps&downmbps=55 Mbps&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-52284
+hysteria://167.160.90.251:48089?upmbps=11 Mbps&downmbps=55 Mbps&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-48089
+hysteria://108.181.22.239:41146?upmbps=11 Mbps&downmbps=55 Mbps&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-41146
+hysteria://www.dtku46.xyz:11223?upmbps=11 Mbps&downmbps=55 Mbps&auth=mqoE9qSoyMFa&insecure=1&peer=bing.com&alpn=h3#Hy1-11223
+hysteria://104.234.70.6:16117?upmbps=11 Mbps&downmbps=55 Mbps&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-16117
+hysteria://108.181.22.155:19721?upmbps=11 Mbps&downmbps=55 Mbps&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-19721
+hysteria://104.234.70.41:57153?upmbps=11 Mbps&downmbps=55 Mbps&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-57153
+hysteria://51.158.54.46:11926?upmbps=11&downmbps=55&auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&insecure=1&peer=youku.com&alpn=h3#Hy1-11926
+hysteria://167.160.91.115:41189?upmbps=11&downmbps=55&auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&insecure=1&peer=www.amazon.cn&alpn=h3#Hy1-41189
+hysteria://108.181.22.239:39967?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-39967
+hysteria://173.234.25.52:20164?upmbps=11&downmbps=55&auth=Ljg6NNEATDqP97hdAdHe1lJv7ggtKc0h7zmCCZKCX3qY0LR64F&insecure=1&peer=www.microsoft.com&alpn=h3#Hy1-20164
+hy2://dongtaiwang.com@www.dtku46.xyz:55307?insecure=true&sni=www.bing.com#Hy2-55307
+hy2://dongtaiwang.com@108.181.22.155:27710?insecure=true&sni=www.bing.com#Hy2-27710
+hy2://dongtaiwang.com@167.160.90.252:63530?insecure=true&sni=www.bing.com#Hy2-63530
+hy2://dongtaiwang.com@108.181.22.155:27710?insecure=true&sni=www.bing.com#Hy2-27710
+naive+https://dongtaiwang.com:dongtaiwang.com@naive14.cfcdn3.xyz:443
+naive+https://dongtaiwang.com:dongtaiwang.com@naive18.cfcdn3.xyz:443
+hysteria://62.204.54.81:46333?upmbps=5&downmbps=10&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-46333
+tuic://764b539f-2d3c-4772-9731-5ebf6984af98:dongtaiwang.com@64.110.25.10:11227/?congestion_control=bbr&udp_relay_mode=native&sni=bing.com&alpn=h3&allow_insecure=1#tuic-11227
+hysteria://www.dtku50.xyz:23577?upmbps=2&downmbps=10&auth=dongtaiwang.com&insecure=1&peer=www.amazon.cn&alpn=h3#Hy1-23577
+hysteria://www.dtku46.xyz:11223?upmbps=11 Mbps&downmbps=55 Mbps&auth=mqoE9qSoyMFa&insecure=1&peer=bing.com&alpn=h3#Hy1-11223
+hysteria://108.181.22.213:33450?upmbps=1000&downmbps=1000&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
+hysteria://www.dtku50.xyz:28877?upmbps=50&downmbps=100&auth=y6Sf5xTFyNx5&insecure=1&peer=www.dtku50.xyz&alpn=h3
+vless://0773256c-d020-436d-afea-6eee7cb6c872@cloudflare.cfgo.cc:443?security=tls&sni=xray1.freegradely.xyz&fp=chrome&type=ws&path=/bodhws&host=xray1.freegradely.xyz
+vless://ffb15cd2-0521-49de-b8aa-fb15d58c8075@dongtaiwang3.com:443?security=tls&sni=v2ray3.freegradely.xyz&fp=chrome&type=ws&path=/bqbows&host=v2ray3.freegradely.xyz
+vless://0773256c-d020-436d-afea-6eee7cb6c872@dongtaiwang3.com:443?security=tls&sni=xray1.freegradely.xyz&fp=chrome&type=ws&path=/bodhws&host=xray1.freegradely.xyz
+vmess://f5c180eb-fbce-49ac-9029-482eca9385c0@dongtaiwang2.com:443?security=tls&sni=xray1.freeh1.xyz&fp=%iii.streamSettings.tlsSettings.fingerprint&type=ws&path=/gzogws&host=xray1.freeh1.xyz
