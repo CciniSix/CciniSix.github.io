@@ -1,26 +1,19 @@
-hysteria://108.181.22.213:52284?upmbps=11 Mbps&downmbps=55 Mbps&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-52284
-hysteria://167.160.90.251:48089?upmbps=11 Mbps&downmbps=55 Mbps&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-48089
-hysteria://108.181.22.239:41146?upmbps=11 Mbps&downmbps=55 Mbps&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-41146
-hysteria://www.dtku46.xyz:11223?upmbps=11 Mbps&downmbps=55 Mbps&auth=mqoE9qSoyMFa&insecure=1&peer=bing.com&alpn=h3#Hy1-11223
-hysteria://167.160.91.116:55009?upmbps=11 Mbps&downmbps=55 Mbps&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-55009
-hysteria://108.181.22.155:19721?upmbps=11 Mbps&downmbps=55 Mbps&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-19721
-hysteria://108.181.2.154:33445?upmbps=11 Mbps&downmbps=55 Mbps&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-33445
-hysteria://51.158.54.46:11926?upmbps=11&downmbps=55&auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&insecure=1&peer=youku.com&alpn=h3#Hy1-11926
+%rethysteria://51.158.54.46:11926?upmbps=11&downmbps=55&auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&insecure=1&peer=youku.com&alpn=h3#Hy1-11926
 hysteria://167.160.91.115:41189?upmbps=11&downmbps=55&auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&insecure=1&peer=www.amazon.cn&alpn=h3#Hy1-41189
 hysteria://108.181.22.239:39967?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-39967
-hysteria://173.234.25.52:20164?upmbps=11&downmbps=55&auth=Ljg6NNEATDqP97hdAdHe1lJv7ggtKc0h7zmCCZKCX3qY0LR64F&insecure=1&peer=www.microsoft.com&alpn=h3#Hy1-20164
-hy2://dongtaiwang.com@www.dtku46.xyz:54455?insecure=true&sni=www.bing.com#Hy2-54455
-hy2://dongtaiwang.com@108.181.22.155:31721?insecure=true&sni=www.bing.com#Hy2-31721
-hy2://dongtaiwang.com@167.160.90.252:63530?insecure=true&sni=www.bing.com#Hy2-63530
-hy2://dongtaiwang.com@108.181.22.155:31721?insecure=true&sni=www.bing.com#Hy2-31721
-naive+https://dongtaiwang.com:dongtaiwang.com@naive14.cfcdn3.xyz:443
+hysteria://173.234.25.52:30072?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-30072
+hy2://dongtaiwang.com@64.110.25.11:33337?insecure=true&sni=www.bing.com#Hy2-33337
+hy2://dongtaiwang.com@64.110.25.11:33337?insecure=true&sni=www.bing.com#Hy2-33337
+hy2://dongtaiwang.com@64.110.25.11:33337?insecure=true&sni=www.bing.com#Hy2-33337
+hy2://dongtaiwang.com@64.110.25.11:33337?insecure=true&sni=www.bing.com#Hy2-33337
+naive+https://dongtaiwang.com:dongtaiwang.com@www.dtku50.xyz:443
 naive+https://dongtaiwang.com:dongtaiwang.com@naive14.cfcdn3.xyz:443
 hysteria://62.204.54.81:44550?upmbps=5&downmbps=10&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-44550
 hysteria://64.110.25.10:44556?upmbps=11 Mbps&downmbps=55 Mbps&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-44556
 hysteria://www.dtku50.xyz:56252?upmbps=2&downmbps=10&auth=dongtaiwang.com&insecure=1&peer=www.amazon.cn&alpn=h3#Hy1-56252
-hysteria://www.dtku46.xyz:44556?upmbps=11 Mbps&downmbps=55 Mbps&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-44556
-hysteria://108.181.22.213:34500?upmbps=1000&downmbps=1000&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
-hysteria://www.dtku50.xyz:11229?upmbps=1000&downmbps=1000&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
+hysteria://111.243.97.209:22334?upmbps=11 Mbps&downmbps=55 Mbps&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-22334
+hysteria://111.243.97.209:22334?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
+hysteria://www.dtku50.xyz:11229?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
 vless://0773256c-d020-436d-afea-6eee7cb6c872@cloudflare.cfgo.cc:443?security=tls&sni=xray1.freegradely.xyz&fp=chrome&type=ws&path=/bodhws&host=xray1.freegradely.xyz
 vless://ffb15cd2-0521-49de-b8aa-fb15d58c8075@dongtaiwang3.com:443?security=tls&sni=v2ray3.freegradely.xyz&fp=chrome&type=ws&path=/bqbows&host=v2ray3.freegradely.xyz
 vless://0773256c-d020-436d-afea-6eee7cb6c872@dongtaiwang3.com:443?security=tls&sni=xray1.freegradely.xyz&fp=chrome&type=ws&path=/bodhws&host=xray1.freegradely.xyz
