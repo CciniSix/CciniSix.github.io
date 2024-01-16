@@ -1,4 +1,4 @@
-%rethysteria://51.158.54.46:11926?upmbps=11&downmbps=55&auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&insecure=1&peer=youku.com&alpn=h3#Hy1-11926
+%rethysteria://51.158.54.46:55396?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=youku.com&alpn=h3#Hy1-55396
 hysteria://167.160.91.115:41189?upmbps=11&downmbps=55&auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&insecure=1&peer=www.amazon.cn&alpn=h3#Hy1-41189
 hysteria://108.181.22.239:39967?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-39967
 hysteria://173.234.25.52:30072?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-30072
@@ -11,10 +11,10 @@ naive+https://dongtaiwang.com:dongtaiwang.com@naive14.cfcdn3.xyz:443
 hysteria://62.204.54.81:44550?upmbps=5&downmbps=10&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-44550
 hysteria://64.110.25.10:44556?upmbps=11 Mbps&downmbps=55 Mbps&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-44556
 hysteria://www.dtku50.xyz:56252?upmbps=2&downmbps=10&auth=dongtaiwang.com&insecure=1&peer=www.amazon.cn&alpn=h3#Hy1-56252
-hysteria://111.243.97.209:22334?upmbps=11 Mbps&downmbps=55 Mbps&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-22334
-hysteria://111.243.97.209:22334?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
+hysteria://www2.dtku48.xyz:22334?upmbps=11 Mbps&downmbps=55 Mbps&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-22334
 hysteria://www.dtku50.xyz:11229?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
-vless://0773256c-d020-436d-afea-6eee7cb6c872@cloudflare.cfgo.cc:443?security=tls&sni=xray1.freegradely.xyz&fp=chrome&type=ws&path=/bodhws&host=xray1.freegradely.xyz
+hysteria://www2.dtku48.xyz:22334?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
+vless://0773256c-d020-436d-afea-6eee7cb6c872@dongtaiwang2.com:443?security=tls&sni=xray1.freegradely.xyz&fp=chrome&type=ws&path=/bodhws&host=xray1.freegradely.xyz
 vless://ffb15cd2-0521-49de-b8aa-fb15d58c8075@dongtaiwang3.com:443?security=tls&sni=v2ray3.freegradely.xyz&fp=chrome&type=ws&path=/bqbows&host=v2ray3.freegradely.xyz
 vless://0773256c-d020-436d-afea-6eee7cb6c872@dongtaiwang3.com:443?security=tls&sni=xray1.freegradely.xyz&fp=chrome&type=ws&path=/bodhws&host=xray1.freegradely.xyz
 vmess://f5c180eb-fbce-49ac-9029-482eca9385c0@dongtaiwang2.com:443?security=tls&sni=xray1.freeh1.xyz&fp= &type=ws&path=/gzogws&host=xray1.freeh1.xyz
