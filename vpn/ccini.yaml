@@ -13,6 +13,6 @@ hysteria://www2.dtku48.xyz:22334?upmbps=11 Mbps&downmbps=55 Mbps&auth=dongtaiwan
 hysteria://www.dtku50.xyz:11229?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
 hysteria://www2.dtku48.xyz:22334?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
 vless://0773256c-d020-436d-afea-6eee7cb6c872@cu.dongtaiwang3.com:443?security=tls&sni=xray1.freegradely.xyz&fp=chrome&type=ws&path=/bodhws&host=xray1.freegradely.xyz
-vless://7b671cd2-233d-406c-88da-1c687727dc52@fr.freeh1.xyz:443?security=tls&sni=fr.freeh1.xyz&fp=chrome&type=ws&path=/kfhaws&host=fr.freeh1.xyz
+vless://7b671cd2-233d-406c-88da-1c687727dc52@dongtaiwang3.com:443?security=tls&sni=fr.freeh1.xyz&fp=chrome&type=ws&path=/kfhaws&host=fr.freeh1.xyz
 vless://0773256c-d020-436d-afea-6eee7cb6c872@dongtaiwang2.com:443?security=tls&sni=xray1.freegradely.xyz&fp=chrome&type=ws&path=/bodhws&host=xray1.freegradely.xyz
 vmess://f5c180eb-fbce-49ac-9029-482eca9385c0@cm.dongtaiwang3.com:443?security=tls&sni=xray1.freeh1.xyz&fp= &type=ws&path=/gzogws&host=xray1.freeh1.xyz
