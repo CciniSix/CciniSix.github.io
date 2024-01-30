@@ -14,5 +14,5 @@ hysteria://www.dtku50.xyz:11229?upmbps=11&downmbps=55&auth=dongtaiwang.com&insec
 hysteria://www2.dtku48.xyz:22334?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
 vless://0773256c-d020-436d-afea-6eee7cb6c872@172.67.71.81:443?security=tls&sni=xray1.freegradely.xyz&fp=chrome&type=ws&path=/bodhws&host=xray1.freegradely.xyz
 vless://ffb15cd2-0521-49de-b8aa-fb15d58c8075@23.227.39.53:443?security=tls&sni=v2ray3.freegradely.xyz&fp=chrome&type=ws&path=/bqbows&host=v2ray3.freegradely.xyz
-vless://0773256c-d020-436d-afea-6eee7cb6c872@dongtaiwang2.com:443?security=tls&sni=xray1.freegradely.xyz&fp=chrome&type=ws&path=/bodhws&host=xray1.freegradely.xyz
+vless://0773256c-d020-436d-afea-6eee7cb6c872@23.227.38.111:443?security=tls&sni=xray1.freegradely.xyz&fp=chrome&type=ws&path=/bodhws&host=xray1.freegradely.xyz
 vmess://f5c180eb-fbce-49ac-9029-482eca9385c0@198.41.220.100:443?security=tls&sni=xray1.freeh1.xyz&fp= &type=ws&path=/gzogws&host=xray1.freeh1.xyz
