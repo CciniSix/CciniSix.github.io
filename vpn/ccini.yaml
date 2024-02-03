@@ -12,7 +12,7 @@ hysteria://www.dtku50.xyz:18470?upmbps=2&downmbps=10&auth=dongtaiwang.com&insecu
 hysteria://www2.dtku48.xyz:22334?upmbps=11 Mbps&downmbps=55 Mbps&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-22334
 hysteria://www.dtku50.xyz:11229?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
 hysteria://www2.dtku48.xyz:22334?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
+vless://9cc39477-0d85-4419-84d4-fb7fc77668b3@108.181.22.213:28945?security=reality&sni=%iii.streamSettings.tlsSettings.serverName&fp= &type=tcp&path=%iii.streamSettings.wsSettings.path&host=%iii.streamSettings.wsSettings.headers.Host
 vmess://3de3fd56-cc9f-42bc-a7e3-608c8990c75f@62.210.100.235:20138?security=%iii.streamSettings.security&sni=%iii.streamSettings.tlsSettings.serverName&fp= &type=tcp&path=%iii.streamSettings.wsSettings.path&host=%iii.streamSettings.wsSettings.headers.Host
-vmess://28fcdcde-905c-482c-ab31-36a0f5abe931@108.181.22.213:11223?security=%iii.streamSettings.security&sni=%iii.streamSettings.tlsSettings.serverName&fp= &type=tcp&path=%iii.streamSettings.wsSettings.path&host=%iii.streamSettings.wsSettings.headers.Host
-vmess://28fcdcde-905c-482c-ab31-36a0f5abe931@108.181.22.213:11223?security=%iii.streamSettings.security&sni=%iii.streamSettings.tlsSettings.serverName&fp= &type=tcp&path=%iii.streamSettings.wsSettings.path&host=%iii.streamSettings.wsSettings.headers.Host
+vless://80b5b4de-0619-4ac2-b1ff-f2bcc697b641@109.104.152.4:16414?security=reality&sni=%iii.streamSettings.tlsSettings.serverName&fp= &type=tcp&path=%iii.streamSettings.wsSettings.path&host=%iii.streamSettings.wsSettings.headers.Host
 vmess://3de3fd56-cc9f-42bc-a7e3-608c8990c75f@62.210.100.235:20138?security=%iii.streamSettings.security&sni=%iii.streamSettings.tlsSettings.serverName&fp= &type=tcp&path=%iii.streamSettings.wsSettings.path&host=%iii.streamSettings.wsSettings.headers.Host
