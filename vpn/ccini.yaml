@@ -5,7 +5,7 @@ hysteria://173.234.25.52:48919?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecu
 hy2://dongtaiwang.com@62.210.103.0:22483?insecure=true&sni=www.bing.com#Hy2-22483
 hy2://dongtaiwang.com@64.110.25.11:33337?insecure=true&sni=www.bing.com#Hy2-33337
 hy2://dongtaiwang.com@62.210.103.0:22483?insecure=true&sni=www.bing.com#Hy2-22483
-hy2://dongtaiwang.com@108.181.24.77:43656?insecure=true&sni=www.bing.com#Hy2-43656
+hy2://dongtaiwang.com@51.159.77.198:29277?insecure=true&sni=www.bing.com#Hy2-29277
 naive+https://dongtaiwang.com:dongtaiwang.com@www.dtku50.xyz:443
 naive+https://dongtaiwang.com:dongtaiwang.com@naive19.cfcdn3.xyz:443
 hysteria://www.dtku50.xyz:18470?upmbps=2&downmbps=10&auth=dongtaiwang.com&insecure=1&peer=www.amazon.cn&alpn=h3#Hy1-18470
@@ -13,6 +13,6 @@ hysteria://www2.dtku48.xyz:22334?upmbps=11 Mbps&downmbps=55 Mbps&auth=dongtaiwan
 hysteria://www.dtku50.xyz:11229?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
 hysteria://www2.dtku48.xyz:22334?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
 vless://e659661d-8439-46e0-b1ab-d75ceaf73404@62.210.101.0:18700?security=reality&sni=%iii.streamSettings.tlsSettings.serverName&fp= &type=tcp&path=%iii.streamSettings.wsSettings.path&host=%iii.streamSettings.wsSettings.headers.Host
-vmess://fe3800ef-a9e8-4943-aaf2-6d99dac75c32@www.dtku44.xyz:10020?security=%iii.streamSettings.security&sni=%iii.streamSettings.tlsSettings.serverName&fp= &type=tcp&path=%iii.streamSettings.wsSettings.path&host=%iii.streamSettings.wsSettings.headers.Host
+shadowsocks://%iii.settings.vnext.users.id@%iii.settings.vnext.address:%iii.settings.vnext.port?security=%iii.streamSettings.security&sni=%iii.streamSettings.tlsSettings.serverName&fp= &type=tcp&path=%iii.streamSettings.wsSettings.path&host=%iii.streamSettings.wsSettings.headers.Host
 vless://9cc39477-0d85-4419-84d4-fb7fc77668b3@51.159.77.153:11111?security=reality&sni=%iii.streamSettings.tlsSettings.serverName&fp= &type=tcp&path=%iii.streamSettings.wsSettings.path&host=%iii.streamSettings.wsSettings.headers.Host
 vless://e659661d-8439-46e0-b1ab-d75ceaf73404@62.210.101.0:18700?security=reality&sni=%iii.streamSettings.tlsSettings.serverName&fp= &type=tcp&path=%iii.streamSettings.wsSettings.path&host=%iii.streamSettings.wsSettings.headers.Host
