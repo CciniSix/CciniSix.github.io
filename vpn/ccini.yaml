@@ -14,5 +14,5 @@ hysteria://www.dtku50.xyz:11229?upmbps=11&downmbps=55&auth=dongtaiwang.com&insec
 hysteria://www2.dtku48.xyz:22334?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
 vless://e659661d-8439-46e0-b1ab-d75ceaf73404@62.210.101.0:18700?security=reality&sni=%iii.streamSettings.tlsSettings.serverName&fp= &type=tcp&path=%iii.streamSettings.wsSettings.path&host=%iii.streamSettings.wsSettings.headers.Host
 shadowsocks://%iii.settings.vnext.users.id@%iii.settings.vnext.address:%iii.settings.vnext.port?security=%iii.streamSettings.security&sni=%iii.streamSettings.tlsSettings.serverName&fp= &type=tcp&path=%iii.streamSettings.wsSettings.path&host=%iii.streamSettings.wsSettings.headers.Host
-vmess://6dca5aed-9206-4496-9d1f-65c31c92f50b@23.227.39.88:8080?security=%iii.streamSettings.security&sni=%iii.streamSettings.tlsSettings.serverName&fp= &type=ws&path=6dca5aed-9206-4496-9d1f-65c31c92f50b-vm&host=proprietary-arc-durham-motorcycle.trycloudflare.com
+vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh1.dtku41.xyz:443?security=tls&sni=lg1.freessr2.xyz&fp=chrome&type=ws&path=/xyakws&host=lg1.freessr2.xyz
 vless://e659661d-8439-46e0-b1ab-d75ceaf73404@62.210.101.0:18700?security=reality&sni=%iii.streamSettings.tlsSettings.serverName&fp= &type=tcp&path=%iii.streamSettings.wsSettings.path&host=%iii.streamSettings.wsSettings.headers.Host
