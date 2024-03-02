@@ -5,7 +5,7 @@ hysteria://173.234.25.52:48919?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecu
 hy2://dongtaiwang.com@62.210.103.0:22483?insecure=true&sni=www.bing.com#Hy2-22483
 hy2://dongtaiwang.com@64.110.25.11:33337?insecure=true&sni=www.bing.com#Hy2-33337
 hy2://dongtaiwang.com@62.210.103.0:22483?insecure=true&sni=www.bing.com#Hy2-22483
-hy2://dongtaiwang.com@51.159.77.198:29277?insecure=true&sni=www.bing.com#Hy2-29277
+hy2://dongtaiwang.com@51.159.77.198:53967?insecure=true&sni=www.bing.com#Hy2-53967
 naive+https://dongtaiwang.com:dongtaiwang.com@www.dtku50.xyz:443
 naive+https://dongtaiwang.com:dongtaiwang.com@naive19.cfcdn3.xyz:443
 hysteria://www.dtku50.xyz:18470?upmbps=2&downmbps=10&auth=dongtaiwang.com&insecure=1&peer=www.amazon.cn&alpn=h3#Hy1-18470
