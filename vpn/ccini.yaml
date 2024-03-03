@@ -12,7 +12,7 @@ hysteria://www.dtku50.xyz:18470?upmbps=2&downmbps=10&auth=dongtaiwang.com&insecu
 hysteria://www2.dtku48.xyz:22334?upmbps=11 Mbps&downmbps=55 Mbps&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-22334
 hysteria://www.dtku50.xyz:11229?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
 hysteria://www2.dtku48.xyz:22334?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
-vless://e659661d-8439-46e0-b1ab-d75ceaf73404@62.210.101.0:18700?security=reality&sni=%iii.streamSettings.tlsSettings.serverName&fp= &type=tcp&path=%iii.streamSettings.wsSettings.path&host=%iii.streamSettings.wsSettings.headers.Host
+vless://ebfdccb6-7416-4b6e-860d-98587344d500@fbi.gov:443?security=tls&sni=lg1.freessr2.xyz&fp=chrome&type=ws&path=/xyakws&host=lg1.freessr2.xyz
 shadowsocks://%iii.settings.vnext.users.id@%iii.settings.vnext.address:%iii.settings.vnext.port?security=%iii.streamSettings.security&sni=%iii.streamSettings.tlsSettings.serverName&fp= &type=tcp&path=%iii.streamSettings.wsSettings.path&host=%iii.streamSettings.wsSettings.headers.Host
 vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh1.dtku41.xyz:443?security=tls&sni=lg1.freessr2.xyz&fp=chrome&type=ws&path=/xyakws&host=lg1.freessr2.xyz
-vless://e659661d-8439-46e0-b1ab-d75ceaf73404@62.210.101.0:18700?security=reality&sni=%iii.streamSettings.tlsSettings.serverName&fp= &type=tcp&path=%iii.streamSettings.wsSettings.path&host=%iii.streamSettings.wsSettings.headers.Host
+vless://ebfdccb6-7416-4b6e-860d-98587344d500@23.227.39.88:443?security=tls&sni=lg1.freessr2.xyz&fp=chrome&type=ws&path=/xyakws&host=lg1.freessr2.xyz
