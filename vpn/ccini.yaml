@@ -11,8 +11,8 @@ naive+https://dongtaiwang.com:dongtaiwang.com@naive19.cfcdn3.xyz:443
 hysteria://www.dtku50.xyz:18470?upmbps=2&downmbps=10&auth=dongtaiwang.com&insecure=1&peer=www.amazon.cn&alpn=h3#Hy1-18470
 hysteria://www2.dtku48.xyz:22334?upmbps=11 Mbps&downmbps=55 Mbps&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3#Hy1-22334
 hysteria://www.dtku50.xyz:11229?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
-hysteria://www2.dtku48.xyz:22334?upmbps=11&downmbps=55&auth=dongtaiwang.com&insecure=1&peer=bing.com&alpn=h3
+shadowsocks://%iii.server:%iii.server_port?upmbps=%iii.up_mbps&downmbps=%iii.down_mbps&auth=%iii.auth_str&insecure=1&peer=%iii.tls.server_name&alpn=%iii.tls.alpn1
 vless://ebfdccb6-7416-4b6e-860d-98587344d500@fbi.gov:443?security=tls&sni=lg1.freessr2.xyz&fp=chrome&type=ws&path=/xyakws&host=lg1.freessr2.xyz
 shadowsocks://%iii.settings.vnext.users.id@%iii.settings.vnext.address:%iii.settings.vnext.port?security=%iii.streamSettings.security&sni=%iii.streamSettings.tlsSettings.serverName&fp= &type=tcp&path=%iii.streamSettings.wsSettings.path&host=%iii.streamSettings.wsSettings.headers.Host
 vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh1.dtku41.xyz:443?security=tls&sni=lg1.freessr2.xyz&fp=chrome&type=ws&path=/xyakws&host=lg1.freessr2.xyz
-vless://ebfdccb6-7416-4b6e-860d-98587344d500@23.227.39.88:443?security=tls&sni=lg1.freessr2.xyz&fp=chrome&type=ws&path=/xyakws&host=lg1.freessr2.xyz
+vless://ebfdccb6-7416-4b6e-860d-98587344d500@yh6.dtku41.xyz:443?security=tls&sni=lg1.freessr2.xyz&fp=chrome&type=ws&path=/xyakws&host=lg1.freessr2.xyz
